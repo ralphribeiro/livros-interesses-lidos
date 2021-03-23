@@ -53,3 +53,9 @@
 - Architecture Patterns With Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices (2020, Harry Percival & Bob Gregory)
 
 <img src="https://covers.oreillystatic.com/images/0636920254638/lrg.jpg" alt="drawing" width="250"/>
+
+----------
+
+- Domain-Driven Design: Tackling Complexity in the Heart of Software (2004, Eric Evans)
+
+<img src="https://www.pearsonhighered.com/assets/bigcovers/0/3/2/1/0321125215.jpg" alt="drawing" width="250"/>
