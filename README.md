@@ -59,3 +59,9 @@
 - Domain-Driven Design: Tackling Complexity in the Heart of Software (2004, Eric Evans)
 
 <img src="https://www.pearsonhighered.com/assets/bigcovers/0/3/2/1/0321125215.jpg" alt="drawing" width="250"/>
+
+----------
+
+- Implementing Domain-Driven Design (2013, Vaughn Vernon)
+
+<img src="https://www.pearsonhighered.com/assets/bigcovers/0/3/2/1/0321834577.jpg" alt="drawing" width="250"/>
