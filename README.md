@@ -34,7 +34,7 @@
 
 - Arquitetura Limpa: O guia do artesão para estrutura e design de software (2017, Robert C. Martin)
 
-<img src="https://www.altabooks.com.br/wp-content/uploads/2019/07/2021x3000_ArquiteturaLimpa_FRENTE.jpg" alt="drawing" width="250"/>
+<img src="https://images-na.ssl-images-amazon.com/images/I/81yxCySs1hL.jpg" alt="drawing" width="250"/>
 
 ----------
 
