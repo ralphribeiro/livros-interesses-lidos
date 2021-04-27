@@ -65,3 +65,9 @@
 - Implementing Domain-Driven Design (2013, Vaughn Vernon)
 
 <img src="https://www.pearsonhighered.com/assets/bigcovers/0/3/2/1/0321834577.jpg" alt="drawing" width="250"/>
+
+----------
+
+- Domain-Driven Design Distilled (2016, Vaughn Vernon)
+
+<img src="https://m.media-amazon.com/images/P/0134434420.01._SCLZZZZZZZ_SX500_.jpg" alt="drawing" width="250"/>
