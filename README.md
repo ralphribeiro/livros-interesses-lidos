@@ -71,3 +71,9 @@
 - Domain-Driven Design Distilled (2016, Vaughn Vernon)
 
 <img src="https://m.media-amazon.com/images/P/0134434420.01._SCLZZZZZZZ_SX500_.jpg" alt="drawing" width="250"/>
+
+----------
+
+- Python Fluente: Programação clara, concisa e eficaz (2015, Luciano Ramalho)
+
+<img src="https://s3.novatec.com.br/capas-ampliadas/capa-ampliada-9788575224625.jpg" alt="drawing" width="250"/>
