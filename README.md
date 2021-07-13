@@ -77,3 +77,9 @@
 - Python Fluente: Programação clara, concisa e eficaz (2015, Luciano Ramalho)
 
 <img src="https://s3.novatec.com.br/capas-ampliadas/capa-ampliada-9788575224625.jpg" alt="drawing" width="250"/>
+
+----------
+
+- Patterns of Enterprise Application Architecture (2003, Martin Fowler)
+
+<img src="https://prodimage.images-bn.com/pimages/9780321127426_p0_v2_s1200x630.jpg" alt="drawing" width="250"/>
