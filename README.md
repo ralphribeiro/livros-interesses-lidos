@@ -82,4 +82,10 @@
 
 - Patterns of Enterprise Application Architecture (2003, Martin Fowler)
 
-<img src="https://prodimage.images-bn.com/pimages/9780321127426_p0_v2_s1200x630.jpg" alt="drawing" width="250"/>
+<img src="https://m.media-amazon.com/images/I/51X+r+OdV3L._SX260_.jpg" alt="drawing" width="250"/>
+
+----------
+
+- High Performance Python, 2nd Edition (2020, Micha Gorelick & Ian Ozsvald)
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/91jGmmp9ioL.jpg" alt="drawing" width="250"/>
