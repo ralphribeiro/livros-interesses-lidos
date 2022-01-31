@@ -1,4 +1,4 @@
-### Livros lidos ultimamente
+### Livros sobre tecnologia lidos ultimamente
 
 ----------
 
@@ -89,3 +89,9 @@
 - High Performance Python, 2nd Edition (2020, Micha Gorelick & Ian Ozsvald)
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/91jGmmp9ioL.jpg" alt="drawing" width="250"/>
+
+----------
+
+- Specification by Example: How Successful Teams Deliver the Right Software (2011, Gojko Adzic)
+
+<img src="https://m.media-amazon.com/images/I/413QfW9S6NL.jpg" alt="drawing" width="250"/>
