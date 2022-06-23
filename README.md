@@ -95,3 +95,9 @@
 - Specification by Example: How Successful Teams Deliver the Right Software (2011, Gojko Adzic)
 
 <img src="https://m.media-amazon.com/images/I/413QfW9S6NL.jpg" alt="drawing" width="250"/>
+
+----------
+
+- BDD in Action: Behavior-Driven Development for the whole software lifecycle (2014, John Ferguson Smart)
+
+<img src="https://images.manning.com/book/6/88f5180-300f-4a9b-a915-2aac7f7aef75/smart.png" alt="drawing" width="250"/>
