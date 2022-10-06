@@ -86,6 +86,12 @@
 
 ----------
 
+- Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions (2003, Gregor Hohpe and Bobby Woolf)
+
+<img src="https://upload.wikimedia.org/wikipedia/en/a/a0/Enterprise_Integration_Patterns.jpg" alt="drawing" width="250"/>
+
+----------
+
 - High Performance Python, 2nd Edition (2020, Micha Gorelick & Ian Ozsvald)
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/91jGmmp9ioL.jpg" alt="drawing" width="250"/>
